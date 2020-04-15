@@ -26,11 +26,7 @@ Tecnologias ultilizadas no projeto:
 
 O proposito desse repositorio é aplicar os conhecimentos adquiridos na linguagem dart no framework Flutter. 
 
-# Primeiro Projeto: 
-
-- Um contador de pessoas: Que possui dois botões onde um botão incrementa e outro decrementa um contador acima. 
-- Quando o botão +1 incrementa o contador até 10 o texto abaixo do botão muda para `lotado`
-- Quando o botão -1 decrementa o contador para um valor negativo o texto abaixo muda para `Mundo Invertido` 
+### Primeiro Projeto: Um contador de pessoas
 
 ##  Guia de instalação
 
