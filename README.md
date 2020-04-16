@@ -26,7 +26,7 @@ Tecnologias ultilizadas no projeto:
 ## Projetos
 
 ### Primeiro Projeto: `Um contador de pessoas`
-### Primeiro Projeto: `Calculadora IMC`
+### Segundo Projeto: `Calculadora IMC`
 
 ##  Guia de instalação
 
