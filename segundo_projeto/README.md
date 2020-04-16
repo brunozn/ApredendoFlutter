@@ -11,7 +11,7 @@ Quer descobrir seu IMC? Insira seu peso e sua altura nos campos e compare com os
 ### VEJA A INTERPRETAÇÃO DO IMC
 
 	IMC				| CLASSIFICAÇÃO		|   OBESIDADE (GRAU) 
---------------------|------------------ | ---------------------
+-----------------------------------------------------------------
 MENOR QUE 18,5		|	MAGREZA			|		  0
 ENTRE 18,5 E 24,9	|	NORMAL			|		  0
 ENTRE 25,0 E 29,9	|	SOBREPESO		|		  I
